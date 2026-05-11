@@ -1,8 +1,8 @@
-export default function SignUp() {
+export default function SignIn() {
   return (
     <div>
-      <h1>Sign Up</h1>
-      {/* Sign-up form goes here */}
+      <h1>Sign In</h1>
+      {/* Sign-in form goes here */}
     </div>
   );
 }
